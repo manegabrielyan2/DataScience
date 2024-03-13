@@ -1,0 +1,12 @@
+Name:MSI GL72M 7RDX
+Price: $1099
+Description:MSI GL72M 7RDX, 17.3" FHD, Core i5-7300HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home
+Review count: 1 reviews
+Name:ThinkPad X230
+Price: $1244.99
+Description:12.5", Core i5 2.6GHz, 8GB, 180GB SSD, Win7 Pro 64bit
+Review count: 10 reviews
+Name:Inspiron 15
+Price: $745.99
+Description:Moon Silver, 15.6", Core i7-4510U, 8GB, 1TB, Radeon HD R7 M265 2GB,
+Review count: 12 reviews
